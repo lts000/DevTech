@@ -50,4 +50,6 @@ From [jsDelivr](https://www.jsdelivr.com)
 
 - [Changelog](https://github.com/RemoteMonster/web-sdk/blob/master/CHANGELOG.md)
 
-##TSLee
+## TSLee
+
+- [Changelog](https://github.com/RemoteMonster/web-sdk/blob/master/CHANGELOG.md)
